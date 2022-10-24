@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://adityabohra007.github.io/csb-k55rhe/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://adityabohra007.github.io/csb-k55rhe/static/js/main.0863e2f9.chunk.js",
+    "main.js.map": "https://adityabohra007.github.io/csb-k55rhe/static/js/main.0863e2f9.chunk.js.map",
+    "runtime-main.js": "https://adityabohra007.github.io/csb-k55rhe/static/js/runtime-main.8dc5f2d3.js",
+    "runtime-main.js.map": "https://adityabohra007.github.io/csb-k55rhe/static/js/runtime-main.8dc5f2d3.js.map",
+    "static/js/2.33f0bf01.chunk.js": "https://adityabohra007.github.io/csb-k55rhe/static/js/2.33f0bf01.chunk.js",
+    "static/js/2.33f0bf01.chunk.js.map": "https://adityabohra007.github.io/csb-k55rhe/static/js/2.33f0bf01.chunk.js.map",
+    "index.html": "https://adityabohra007.github.io/csb-k55rhe/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://adityabohra007.github.io/csb-k55rhe/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.33f0bf01.chunk.js.LICENSE.txt": "https://adityabohra007.github.io/csb-k55rhe/static/js/2.33f0bf01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dc5f2d3.js",
+    "static/js/2.33f0bf01.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0863e2f9.chunk.js"
+  ]
+}
